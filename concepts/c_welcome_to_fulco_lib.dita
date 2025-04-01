@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="c_enter_unique_id_here">
-  <title></title>
+<concept id="c_welcome_to_fulco_lib">
+  <title>Getting Started at the Fulton County Library</title>
   <shortdesc>
-
+Becoming a Fulton County Library Cardholder free and simple.
   </shortdesc>
   <conbody>
-
+    <p>
+      As a member you will have access not just to physical books, but to a plethora of online contnet such as e-books, audiobooks, and more.
+    </p>
+    <p>
+      Cardholders also have the ability to attend library events or reserve meeting rooms for their own events.
+    </p>
+    <p>
+    This manual provides a comprehensive guide to joining, and using these public services.
+    </p>
   </conbody>
 </concept>
