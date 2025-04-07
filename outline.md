@@ -11,8 +11,8 @@
 * Task - Accessing the Application
 * Task - Adding in personal information
 * Task - Adding in contact information
-* Task - Creating a Pin
 * Ref - what is a pin
+* Task - Creating a Pin
 * Concept - What is a home library
 * Task - Selecting your home library
 * Task - Review and Submit

@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="c_enter_unique_id_here">
-  <title></title>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Reference//EN" "concept.dtd">
+<concept id="r_cardholder_qualifications">
+  <title>Cardholder  Qualifications</title>
   <shortdesc>
-
+  To access library services, you must first become a cardholder.
   </shortdesc>
   <conbody>
+    <p>
+    Card holders are community members that have submitted an application to join their local library and have been accepted.
+    </p>
 
+    <p> Community members are able to become a cardholder if they:</p>
+    <ul>
+      <li>Meet the residency requirement, and are able to provide proof of residency</li>
+      <li>Commit to:
+        <ol>
+          <li>Returning any items checked out on time and in good condition</li>
+          <li>Paying any fines that are incurred due to late returns or damaged or lost materials</li>
+          <li>Ensuring the card is only ever used by the cardholder</li>
+        </ol>
+      </li>
+    </ul>
+
+    <p><b>There is no minimum age to be a cardholder</b></p>
+    
+    <p>
+    For community members under the age of 13, a parent or guardian must be present to sign the library application on their behalf.
+    </p>
+    
+    <p>
+    Minors age 13 and older can sign for themselves, but must be able to provide proof of residency in their name. If they cannot do so, then a parent or guardian must apply on their behalf.
+    </p>
   </conbody>
 </concept>

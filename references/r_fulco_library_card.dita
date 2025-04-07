@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="r_enter_unique_id_here">
-  <title></title>
+<reference id="r_library_card_options">
+  <title>Library Card Options</title>
   <shortdesc>
-
+  Fulton county residents are eligible for both Fulton County Library Cards and Pines-E Cards.
   </shortdesc>
   <refbody>
-
+   <simpletable>
+    <sthead>
+      <stentry></stentry>
+      <stentry>Fulton County</stentry>
+      <stentry>Pines-E Cards</stentry>
+    </sthead>
+    <strow>
+      <stentry>Free apply for</stentry>
+      <stentry>&#10004;</stentry>
+       <stentry>&#10004;</stentry>
+    </strow>
+    <strow>
+      <stentry>Access to physical books, magazines, and DVDs</stentry>
+      <stentry>&#10004;</stentry>
+       <stentry>&#10006;</stentry>
+    </strow>
+    <strow>
+      <stentry>Access to eBooks, audiobooks, and streaming content</stentry>
+      <stentry>&#10004;</stentry>
+       <stentry>&#10004;</stentry>
+    </strow>
+    <strow>
+      <stentry>Access to online research databases</stentry>
+      <stentry>&#10004;</stentry>
+       <stentry>&#10004;</stentry>
+    </strow>
+    <strow>
+      <stentry>Access to physical meeting space in local libraries</stentry>
+      <stentry>&#10004;</stentry>
+       <stentry>&#10006;</stentry>
+    </strow>
+     <strow>
+      <stentry>Invited to attend various community events</stentry>
+      <stentry>&#10004;</stentry>
+       <stentry>&#10006;</stentry>
+    </strow>
+   </simpletable>
   </refbody>
 </reference>
