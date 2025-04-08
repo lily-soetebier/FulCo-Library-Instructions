@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Reference//EN" "concept.dtd">
-<concept id="r_cardholder_qualifications">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_cardholder_qualifications">
   <title>Cardholder  Qualifications</title>
   <shortdesc>
   To access library services, you must first become a cardholder.
@@ -14,11 +14,11 @@
     <ul>
       <li>Meet the residency requirement, and are able to provide proof of residency</li>
       <li>Commit to:
-        <ol>
+        <ul>
           <li>Returning any items checked out on time and in good condition</li>
           <li>Paying any fines that are incurred due to late returns or damaged or lost materials</li>
           <li>Ensuring the card is only ever used by the cardholder</li>
-        </ol>
+        </ul>
       </li>
     </ul>
 

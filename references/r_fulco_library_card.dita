@@ -14,33 +14,33 @@
     </sthead>
     <strow>
       <stentry>Free apply for</stentry>
-      <stentry>&#10004;</stentry>
-       <stentry>&#10004;</stentry>
+      <stentry>Yes</stentry>
+       <stentry>Yes</stentry>
     </strow>
     <strow>
       <stentry>Access to physical books, magazines, and DVDs</stentry>
-      <stentry>&#10004;</stentry>
-       <stentry>&#10006;</stentry>
+      <stentry>Yes</stentry>
+       <stentry>No</stentry>
     </strow>
     <strow>
       <stentry>Access to eBooks, audiobooks, and streaming content</stentry>
-      <stentry>&#10004;</stentry>
-       <stentry>&#10004;</stentry>
+      <stentry>Yes</stentry>
+       <stentry>Yes</stentry>
     </strow>
     <strow>
       <stentry>Access to online research databases</stentry>
-      <stentry>&#10004;</stentry>
-       <stentry>&#10004;</stentry>
+      <stentry>Yes</stentry>
+       <stentry>Yes</stentry>
     </strow>
     <strow>
       <stentry>Access to physical meeting space in local libraries</stentry>
-      <stentry>&#10004;</stentry>
-       <stentry>&#10006;</stentry>
+      <stentry>Yes</stentry>
+       <stentry>No</stentry>
     </strow>
      <strow>
       <stentry>Invited to attend various community events</stentry>
-      <stentry>&#10004;</stentry>
-       <stentry>&#10006;</stentry>
+      <stentry>Yes</stentry>
+       <stentry>No</stentry>
     </strow>
    </simpletable>
   </refbody>
