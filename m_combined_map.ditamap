@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="m_combined_map">
+  <title>Welcome to the Fulton County Library</title>
+
+    <topicref type= "concept" href="concepts/c_welcome_to_fulco_lib.dita" toc = "no"/>
+
+    <topichead>
+      <topicmeta>
+        <navtitle>How to Become a Fulton County Library Cardholder</navtitle>
+      </topicmeta>
+      
+      <mapref type= "map" href="m_new_user.ditamap" format="ditamap"/>
+    </topichead>
+
+    <topichead>
+      <topicmeta>
+       <navtitle>Managing Your Cardholder Status</navtitle>
+      </topicmeta>
+      
+      <mapref type= "map" href="m_card_management.ditamap" format="ditamap"/>
+    </topichead>
+
+    <topichead>
+      <topicmeta>
+        <navtitle>Frequently Asked Questions</navtitle>
+      </topicmeta>
+      
+      <mapref type= "map" href="m_faq.ditamap" format="ditamap"/> 
+    </topichead>     
+</map>

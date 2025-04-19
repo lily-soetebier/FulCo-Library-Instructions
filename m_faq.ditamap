@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="m_faq">
+  <title>Frequently Asked Questions</title>
+  <topicref type="concept" href="concepts/c_residence_end.dita"/>
+  <topicref type="concept" href="concepts/c_lost_card.dita"/>
+  <topicref type="reference" href="references/r_circulation_information.dita"/>
+</map>

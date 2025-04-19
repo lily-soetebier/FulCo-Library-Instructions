@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_proof_of_residency">
   <title>How do I prove I am a Resident of Fulton County?</title>
   <shortdesc>
@@ -11,7 +11,7 @@
         <cmd>Use the decision tree to select the appropriate item to bring in for proof of residency</cmd>
       </step>
       <step>
-        <cmd><image></image></cmd>
+        <cmd><image href="../images/proof_of_residency_chart.png" alt = "Chart:This decision tree walks through determining proof of residency" scalefit = "yes"/></cmd>
       </step>
       <step>
         <cmd>After completing the online application, present this item and your completed application to the clerk at the circulation desk of any Fulton County Library branch.</cmd>

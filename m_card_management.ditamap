@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="m_card_management">
+  <title>Managing Your Cardholder Status</title>
+  
+  <topicref type="task" href="tasks/t_log_in_to_account.dita"/>
+  <topicref type="task" href="tasks/t_access_settings.dita"/>
+  
+  <topicref type="task" href="tasks/t_renew_lib_card.dita"/> 
+</map>
