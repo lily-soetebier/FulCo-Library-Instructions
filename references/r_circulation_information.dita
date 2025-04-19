@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_circulation_information">
+  <title>General Circulation Information</title>
+  <shortdesc>
+  All items available for check out have different checkout limits and late fees.
+  </shortdesc>
+  <refbody>
+    <simpletable>
+      <sthead>
+        <stentry>Item</stentry>
+        <stentry>Check Out Limit</stentry>
+        <stentry>Loan Period</stentry>
+        <stentry>Late Fee (per day late)</stentry>
+      </sthead>
+      <strow>
+        <stentry>Books</stentry>
+        <stentry>50</stentry>
+        <stentry>28 Days</stentry>
+        <stentry>YA/Adult Books: 10¢ Children's Books: 5¢</stentry>
+      </strow>
+      <strow>
+        <stentry>Popular/"Browse" Materials</stentry>
+        <stentry>50</stentry>
+        <stentry>14 Days</stentry>
+        <stentry>$1</stentry>
+      </strow>
+      <strow>
+        <stentry>CDs</stentry>
+        <stentry>10</stentry>
+        <stentry>28 Days</stentry>
+        <stentry>$1</stentry>
+      </strow>
+      <strow>
+        <stentry>DVDs and VHS Tapes</stentry>
+        <stentry>5</stentry>
+        <stentry>7 days</stentry>
+        <stentry>$1</stentry>
+      </strow>
+      <strow>
+        <stentry>All Other Materials</stentry>
+        <stentry>50</stentry>
+        <stentry>28 Days</stentry>
+        <stentry>10¢</stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>
