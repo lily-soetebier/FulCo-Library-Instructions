@@ -11,6 +11,7 @@
         <cmd>Read each field careful to ensure accuracy, and that you have entered information into each field.</cmd>
       </step>
       <step>
+        <cmd>Select the button that corresponds with your desired action</cmd>
         <choicetable>
           <chhead>
             <choptionhd>Option</choptionhd>
@@ -18,14 +19,13 @@
           </chhead>
           <chrow>
             <choption>Register</choption>
-            <chdeschd>If all fields have been completed, the Register button should now be green. Clicking this button will submit your application.</chdeschd>
+            <chdesc>If all fields have been completed, the Register button should now be green. Clicking this button will submit your application.</chdesc>
           </chrow>
           <chrow>
             <choption>Cancel</choption>
-            <chdeschd>If you no longer want to submit an application, you can click the cancel button. However, this action cannot be undone. If you cancel your application now you will have to start from the begining again.</chdeschd>
+            <chdesc>If you no longer want to submit an application, you can click the cancel button. However, this action cannot be undone. If you cancel your application now you will have to start from the begining again.</chdesc>
           </chrow>
         </choicetable>
-        <cmd>Select the button that corresponds with your desired action</cmd>
       </step>
     </steps>
     <result>Shortly after you have submitted your application, you will receive an email with confirmation that your application was submitted and a temporary library card number.</result>

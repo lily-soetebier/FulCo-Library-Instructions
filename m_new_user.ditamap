@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="m_new_user">
-  <title>How to Become a Member of the Fulton County Library</title>
-  <topicref href="" format="ditamap">
-    <topicmeta>
-      <navtitle></navtitle>
-    </topicmeta>
+  <title>How to Become a Fulton County Library Cardholder</title> 
+  <topicref type="concept" href="concepts/c_types_of_cards.dita">
+    <topicref type="reference" href = "references/r_fulco_v_pines_card.dita"/>
   </topicref>
-</map>
+
+  <topicref type="concept" href="concepts/c_cardholder_qualifications.dita">
+    <topicref type="concept" href="concepts/c_resident_definition.dita"/>
+    <topicref type="task" href="tasks/t_proof_of_residency.dita"/>
+  </topicref>
+  
+  <topicref type="task" href="tasks/t_access_application.dita"/>
+  
+  <topicref type="task" href="tasks/t_add_personal_info.dita"/>
+ 
+  <topicref type="concept" href="concepts/c_pins.dita">
+   <topicref type="task" href="tasks/t_create_pin.dita"/>
+  </topicref>
+
+  <topicref type="concept" href="concepts/c_home_libraries.dita">
+    <topicref type="task" href="tasks/t_select_home_lib.dita"/>
+  </topicref>
+  
+  <topicref type="task" href="tasks/t_review_submit.dita"/>
+
+  <topicref type ="concept" href ="concepts/c_temporary_and_permanent_cards.dita"/>
+  <topicref type="task" href="tasks/t_get_permanent_card.dita"/>
+  </map>

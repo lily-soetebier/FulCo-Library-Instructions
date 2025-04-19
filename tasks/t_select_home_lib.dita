@@ -8,7 +8,7 @@
   <taskbody>
     <steps>
       <step>
-        <cmd>Click on the <ui>Library Dropdown</ui></cmd>
+        <cmd>Click on the Library dropdown</cmd>
         <stepresult>A long list of all Fulton County library branches in alphabetical order should appear</stepresult>
       </step>
       <step>

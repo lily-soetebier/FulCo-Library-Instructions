@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="c_enter_unique_id_here">
+<concept id="c_types_of_cards">
   <title>Choosing the Card for You</title>
   <shortdesc>
 There are two types of cards available to Fulton County Residents: a Fulton County Library Card and the PINES E-Card.
   </shortdesc>
   <conbody>
-    <section>
-      <title>What is a cardholder?</title>
-    </section>
     <section>
       <title> Fulton County Library Card</title>
       <p>A Fulton County Library card is available to all residents of Fulton County.
@@ -19,7 +16,6 @@ There are two types of cards available to Fulton County Residents: a Fulton Coun
       <p>
       The PINES E-Card is available to all Georgia residents, not just those residing in Fulton County.
       </p>
-
     </section>
   </conbody>
 </concept>
