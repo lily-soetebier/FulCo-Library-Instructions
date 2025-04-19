@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="r_enter_unique_id_here">
-  <title></title>
+<task id="t_renewing_lib_card">
+  <title>Renewing Your Library Card</title>
   <shortdesc>
-
+    All cardholders are eligible to renew their library card as long as they are still residents of Fulton County.
   </shortdesc>
   <taskbody>
-
+    <prereq>
+      To renew your library card you will need:
+      <ul>
+        <li>Your expired Fulton County Library Card</li>
+        <li>An updated proof of residency</li>
+     </ul>
+     <note type ="warning">All minors must have a parent or guardian present to renew their library card.</note>
+    </prereq>
+    <steps>
+      <step>
+        <cmd>Pay off any outstanding fines you have on your account.</cmd>
+        <info><note>This can be done in person at your home library, or by visiting<xref href="https://fulcolibrary.bibliocommons.com/v2/fines" scope ="external"/> in  </note></info>
+      </step>
+      <step>
+        <cmd>Present your expired card and updated proof of residency to the library at the circulation desk</cmd>
+        <stepresult>The librarian at the circulation desk will renew your card, and you will be able to continue utilizing library services immediately.</stepresult>
+      </step>
+    </steps>
   </taskbody>
 </task>
