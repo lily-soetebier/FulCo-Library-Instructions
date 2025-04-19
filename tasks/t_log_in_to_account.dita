@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="r_enter_unique_id_here">
-  <title></title>
+<task id="t_log_in_to_account">
+  <title>Logging in to your Library Account</title>
   <shortdesc>
-
+  To check your the status of your library card, make holds, and pay any fines you will need to log in to your library account.
   </shortdesc>
   <taskbody>
-
+    <prereq>
+      To log in to your library account you must:
+      <ul>
+        <li>Have a temporary or permanent library card number</li>
+        <li>Know you the PIN you created when applying for the library card</li>
+      </ul>
+    </prereq>
+    <steps>
+      <step>
+        <cmd>Navigate to the library home page: <xref href="https://www.fulcolibrary.org/" scope="external">www.fulcolibrary.org</xref></cmd>
+      </step>
+      <step>
+        <cmd>Click the blue button in the top right corner of the screen labeled Log In/My FCLS</cmd>
+        <stepresult>A dropdown should open when you click</stepresult>
+      </step>
+      <step>
+        <cmd>Click the large green button labeled Log In/Register</cmd>
+        <stepresult>This will take you to the log in screen.</stepresult>
+      </step>
+      <step>
+        <cmd>Enter the number found on the back of your library card into the Username or Barcode field</cmd>
+        <info><note>If you haven't picked up your permanent library card yet, you can use your temporary library card number. This can be found in the confirmation email you received after submitting your application.</note></info>
+      </step>
+      <step>
+        <cmd>Enter your PIN into the Password field</cmd>
+        <info><note>If you can't remember what your pin number is, you can click Forgot your Password? to begin the recovery process.</note></info>
+      </step>
+    </steps>
+    <result>You will know you have successfully logged in when you are returned to the library home page and see your name/username in the top right corner of the screen.</result>
   </taskbody>
 </task>

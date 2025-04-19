@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_proof_of_residency">
+  <title>How do I prove I am a Resident of Fulton County?</title>
+  <shortdesc>
+  The item you will need to provide as proof of residence varies depending on age, and how you qualify for residency.
+  </shortdesc>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Use the decision tree to select the appropriate item to bring in for proof of residency</cmd>
+      </step>
+      <step>
+        <cmd><image></image></cmd>
+      </step>
+      <step>
+        <cmd>After completing the online application, present this item and your completed application to the clerk at the circulation desk of any Fulton County Library branch.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

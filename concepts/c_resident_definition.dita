@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_resident_definition">
+  <title>Who Qualifies as a Resident?</title>
+  <shortdesc>
+    Like other government services, library card applicants must be residents of the County to apply, but the qualifications for resident in this case.
+  </shortdesc>
+  <conbody>
+  <p>
+    For the purposes of getting a library card <b>only</b>, a resident is anyone who:
+  </p>
+  <ul>
+    <li>Currently lives in Fulton County</li>
+    <li>Is currently employed at a business with an address in Fulton County</li>
+    <li>Currently attends a school in Fulton County</li>
+    <li>Owns property in Fulton County</li>
+  </ul>
+  </conbody>
+</concept>

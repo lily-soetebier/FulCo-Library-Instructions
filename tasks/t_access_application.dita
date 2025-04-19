@@ -41,9 +41,9 @@
       </step>
       <step>
         <cmd>Click the image under the "Get a Library Card" callout on the righthand side of the page</cmd>
-        <info>
+        <info><note type="warning">
           You must click the image, not the heading, to activate the link.
-          <image href="../images/Get_a_Card.png" alt="Image: The top portion of the Library Cards and Circulation Information page with a sidebar titled Get a Library Card highlighted." scalefit="yes"/>
+          <image href="../images/Get_a_Card.png" alt="Image: The top portion of the Library Cards and Circulation Information page with a sidebar titled Get a Library Card highlighted." scalefit="yes"/></note>
         </info>
       </step>
     </steps>
