@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="r_enter_unique_id_here">
-  <title></title>
+<task id="t_get_permanent_library_cards">
+  <title>Picking Up Your Permanent Library Card</title>
   <shortdesc>
-
+    Your permanent card will expire after 30 days, so you will need to acquire a permanent library card.
   </shortdesc>
   <taskbody>
-
+    <steps>
+      <step>
+        <cmd>Call your home library to ensure that they have recieved your application and learn of any branch specific procedures</cmd>
+      </step>
+      <step>
+        <note type = "warning">Each library branch has a slightly different procedure, so if you have not called ahead it is not recommended to proceed to picking up your permanent card.</note>
+        <cmd>Visit your home library and present your proof of insurance according to the aforementioned procedures</cmd>
+      </step>
+      <step>
+        <cmd>After completing the in-person verification process, verify that your library card number and status have been updated to match your permanent card.</cmd>
+      </step>
+    </steps>
   </taskbody>
 </task>

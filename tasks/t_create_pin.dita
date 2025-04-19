@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="r_enter_unique_id_here">
-  <title></title>
+<task id="t_create_pin">
+  <title>Create a Pin</title>
   <shortdesc>
-
+  All library cardholders must create a pin.
   </shortdesc>
   <taskbody>
-
+    <steps>
+      <step>
+        <cmd>Enter a combination of 1-10 letters and numbers to serve as your pin.</cmd>
+      </step>
+      <step>
+        <cmd>Re-enter the exact same combination of letters and numbers</cmd>
+        <info>If the two pins do not match, you will not be able to submit the form.</info>
+      </step>
+    </steps>
   </taskbody>
 </task>

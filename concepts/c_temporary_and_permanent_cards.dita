@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_temporary_and_permanent_cards">
+  <title>Temporary and Permanent Cards</title>
+  <shortdesc>
+    When you first apply to the Fulton County Library you will be issued a temporary library card which has more limited capabilities than a permanent library card.
+  </shortdesc>
+  <conbody>
+    <section>
+      <title>Temporary Library Cards</title>
+      <p>
+        Temporary cards grant applicants immediate access to any of the online resources available at the Fulton County Library.
+      </p>
+      <p>
+        These cards cannot be used to access physical materials or spaces, and will expire 30 days after the application is submitted. They cannot be renewed, and should instead be replaced with a permanent library card.
+      </p>
+    </section>
+    <section>
+      <title>Permanent Library Cards</title>
+      <p>
+        Permanent library cards will grant access to all library materials and services.
+      </p>
+      <p>
+        Despite their name, permanent cards also expire. However, permanent cards are renewable as long as you are still a resident of Fulton County.
+      </p>
+      <p>
+        Most permanent cards are valid for 2 years. Certain cards, such as those distributed by our library partners at Georgia Tech expire after just one year.
+      </p>
+    </section>
+  </conbody>
+</concept>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_enter_unique_id_here">
+  <title>What is a Pin?</title>
+  <shortdesc>
+  Pins are short passwords that are linked to your library card number.
+  </shortdesc>
+  <conbody>
+    <p>
+     Library card pins function similarly to a debit card pin. The pin protects your account by ensuring that only you, the cardholder, are the one using your card to access library services.
+    </p>
+    <p>
+    You can use any combination of letters and/or numbers, but cannot exceed 10 characters.
+    </p>
+    <p>
+    Be sure your chosen pin is a combination you will remember. You will need to input it when:
+    </p>
+    <ul>
+      <li>Checking out materials</li>
+      <li>Placing holds on materials</li>
+      <li>Accessing account details online</li>
+    </ul>
+  </conbody>
+</concept>

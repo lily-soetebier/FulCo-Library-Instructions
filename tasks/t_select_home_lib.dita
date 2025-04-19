@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="r_enter_unique_id_here">
-  <title></title>
+<task id="t_select_home_libary">
+  <title>Selecting a Home Library</title>
   <shortdesc>
-
+  The last step of the online application is selecting your home library.
   </shortdesc>
   <taskbody>
-
+    <steps>
+      <step>
+        <cmd>Click on the <ui>Library Dropdown</ui></cmd>
+        <stepresult>A long list of all Fulton County library branches in alphabetical order should appear</stepresult>
+      </step>
+      <step>
+        <cmd>Click on the library you want to set as your home library</cmd>
+        <stepresult>The dropdown should close, and that name should have appeared in the box next to the label "Library"</stepresult>
+      </step>
+    </steps>
   </taskbody>
 </task>

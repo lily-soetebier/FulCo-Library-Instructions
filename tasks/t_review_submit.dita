@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="r_enter_unique_id_here">
-  <title></title>
+<task id="t_review_submit">
+  <title>Review and Submit</title>
   <shortdesc>
-
+  It is extremly important that all of the information you have entered is accurate, and matches with your proof of residency.
   </shortdesc>
   <taskbody>
-
+    <steps>
+      <step>
+        <cmd>Read each field careful to ensure accuracy, and that you have entered information into each field.</cmd>
+      </step>
+      <step>
+        <choicetable>
+          <chhead>
+            <choptionhd>Option</choptionhd>
+            <chdeschd>Description</chdeschd>
+          </chhead>
+          <chrow>
+            <choption>Register</choption>
+            <chdeschd>If all fields have been completed, the Register button should now be green. Clicking this button will submit your application.</chdeschd>
+          </chrow>
+          <chrow>
+            <choption>Cancel</choption>
+            <chdeschd>If you no longer want to submit an application, you can click the cancel button. However, this action cannot be undone. If you cancel your application now you will have to start from the begining again.</chdeschd>
+          </chrow>
+        </choicetable>
+        <cmd>Select the button that corresponds with your desired action</cmd>
+      </step>
+    </steps>
+    <result>Shortly after you have submitted your application, you will receive an email with confirmation that your application was submitted and a temporary library card number.</result>
   </taskbody>
 </task>

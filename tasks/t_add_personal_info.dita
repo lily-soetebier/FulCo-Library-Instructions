@@ -1,11 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="r_enter_unique_id_here">
-  <title></title>
+<task id="t_add_personal_info">
+  <title>Personal Information</title>
   <shortdesc>
-
+The first portion of the application requires you to provide personal information for contact, and residency purposes.
   </shortdesc>
   <taskbody>
-
+    <context>
+      <p>All information provided in this section must match the proof of residency.</p>
+      <p><b>EXCEPTION:</b> For parents/guardians who are filling out this application on behalf of a minor, be sure to enter their name and date of birth, even if yours is listed on the proof of residency.</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>Add your first name to the first, middle, and last name to the respective fields.</cmd>
+         <info>If you do not have a middle name, or your middle name is not present on your proof of residency you do not have to provide one.</info>
+      </step>
+      <step>
+        <cmd>Add your date of birth using the numerical MM/DD/YYYY format.</cmd>
+        <stepxmp>If your birthday is January 1, 2001, enter 01/01/2001</stepxmp>
+      </step>
+      <step>
+        <note type="warning">You must use the same address as the one listed on your proof of residency.</note>
+        <cmd>Enter your Fulton County address into the Address (street), city, state, and postal code fields</cmd>
+        <info>If you live in Fulton County, enter your current home address. If you are a property owner, student, or employee that works or studies in Fulton County, enter the corresponding address.</info>
+      </step>
+      <step>
+        <note type="warning">Do not enter contact information that you may lose access to in the future such as a work or school phone number or email address.</note>
+        <cmd>Enter your phone number and email address into the following fields.</cmd>
+        <info><b>Parents/guardians:</b> If the minor you are completing this form on behalf of has their own phone number and/or email, use their points of contact. If not, supply your own.</info>
+      </step>
+    </steps>
   </taskbody>
 </task>

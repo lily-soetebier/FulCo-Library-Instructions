@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="c_enter_unique_id_here">
-  <title></title>
+<concept id="c_home_libraries">
+  <title>Home Libraries</title>
   <shortdesc>
-
+  When applying for a library card you will be asked to select your home library.
   </shortdesc>
   <conbody>
-
+  <section>
+    <title>What is a home library?</title>
+    <p>
+    A home library is the library branch that you would like the online search catalogue to default to. This means that when searching for materials to check out, the catalogue will search the availability at that branch first.
+    </p>
+    <p>
+    This library will also be the branch that the online library systems defaults to for delivery of hold materials.
+    </p>
+    <note>While you are required to select a home library, as a cardholder you will have access to the materials available at all Fulton County Libraries.</note>
+  </section>
+  <section>
+    <title>Which branch should I pick for my home library?</title>
+    <p>
+    Typically, cardholders will select the branch nearest to their Fulton County address as their home library. However, you can choose any of the branches.
+    </p>
+    <p>
+    To explore a list of all Fulton County libraries visit: <xref href="https://www.fulcolibrary.org/all-locations/" scope="external">Fulton County Library Locations/</xref>
+    </p>
+    <p>To locate the library nearest to your Fulton County address visit: <xref href="https://fulcolibrary.bibliocommons.com/v2/locations" scope="external">Fulton County Library Locator</xref></p>
+  </section>
   </conbody>
 </concept>
