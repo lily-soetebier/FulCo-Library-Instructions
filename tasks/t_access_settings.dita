@@ -7,16 +7,26 @@
   </shortdesc>
   <taskbody>
     <prereq>
-      To access your library dashboard, you must be logged in to your library account.
+      To access your settings, you must be logged in to your library account.
     </prereq>
     <steps>
       <step>
         <note>Accessing the dashboard begins the same way logging in to you account began.</note>
         <cmd>Click on the blue button in the top left corner, which should display your name/username</cmd>
-        <stepresult>A drop down will appear, just like it did when you were logging in</stepresult>
+        <info>
+          <image href="../images/user_button.png" scalefit="yes" alt="Image: A screenshot of the blue button, now displaying 'lsoetebier3' a cardholder's username."></image>
+        </info>
+        <stepresult>
+          A drop down will appear, just like it did when you were logging in.
+          <image href="../images/account_dropdown.png" height="500px" alt="Image:A screenshot of the account dropdown."/>
+        </stepresult>
       </step>
       <step>
         <cmd>Click the menu item "My Settings", found at the bottom of the drop down</cmd>
+        <stepresult>
+          You will be brought to the following page:
+          <image href="../images/my_settings.png" height="500px" alt="Image: A screenshot of the settings page."/>
+        </stepresult>
       </step>
       <step>
         <note>While on this page you will want to check your information is up to date, and that your card is not expired.</note>

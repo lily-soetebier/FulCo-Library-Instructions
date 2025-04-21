@@ -10,7 +10,7 @@
       To access the library card application you must:
       <ul>
         <li>
-        Have a valid email address
+          Have a valid email address
           <ul>
             <li>Avoid using an email you may lose access to in the future such as a school or work email address</li>
           </ul>
@@ -24,34 +24,34 @@
         <cmd>Navigate to the Fulton County Library home page:  <xref href="https://www.fulcolibrary.org/" scope="external">www.fulcolibrary.org</xref> </cmd>
       </step>
       <step>
-        <cmd>Select <uicontrol>Services</uicontrol> from the top menu bar.</cmd>
+        <cmd>Select Services from the top menu bar.</cmd>
         <info>
-          <image href="../images/Services_Tab.png" alt="Image: Top menu bar from the Fulton County Library home page with the services tab highlighted." scalefit="yes"/>
+          <image href="../images/Services_Tab.png" alt="Image: Top menu bar from the Fulton County Library home page with the services tab highlighted." height="500px"/>
         </info>
         <stepresult>
         A drop down menu should appear when you click.
         </stepresult>
       </step>
       <step>
-        <cmd>Select <uicontrol>Library Cards</uicontrol> from the dropdown menu.</cmd>
+        <cmd>Select Library Cards from the dropdown menu.</cmd>
         <info>
-          <image href="../images/Library_Cards.png" alt="Image: Services drop down listing a variety of subpages, with the library card subpage highlighted." scalefit="yes"/>
+          <image href="../images/Library_Cards.png" alt="Image: Services drop down listing a variety of sub-pages, with the library card subpage highlighted." height="500px"/>
         </info>
         <stepresult>This link will bring you to the "Library Cards and Circulation Information" page.</stepresult>
       </step>
       <step>
-        <cmd>Click the image under the "Get a Library Card" callout on the righthand side of the page</cmd>
+        <cmd>Click the image under the "Get a Library Card" callout on the right side of the page</cmd>
         <info>
           <note type="warning">
           You must click the image, not the heading, to activate the link.
           </note>
-          <image href="../images/Get_a_Card.png" alt="Image: The top portion of the Library Cards and Circulation Information page with a sidebar titled Get a Library Card highlighted." scalefit="yes"/>
+          <image href="../images/Get_a_Card.png" alt="Image: The top portion of the Library Cards and Circulation Information page with a sidebar titled Get a Library Card highlighted." height="500px"/>
         </info>
       </step>
     </steps>
     <result>
       You should now have reached the online application portal.
-      <image href="../images/Online_Application.png" alt="Image: The online application portal for the Fulton County library system." scalefit="yes"/>
+      <image href="../images/Online_Application.png" alt="Image: The online application portal for the Fulton County library system." height="500px"/>
     </result>
   </taskbody>
 </task>

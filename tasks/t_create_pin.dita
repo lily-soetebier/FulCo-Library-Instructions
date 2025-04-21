@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="t_create_pin">
-  <title>Create a Pin</title>
+<task id="t_create_PIN">
+  <title>Create a PIN</title>
   <shortdesc>
-  All library cardholders must create a pin.
+  All library cardholders must create a PIN.
   </shortdesc>
   <taskbody>
+    <context>
+      <image href="../images/pin_fields.png" scalefit="yes" alt="Image: There are two fields where you are required to enter a PIN, highlighted in this screenshot"/>
+    </context>
     <steps>
       <step>
-        <cmd>Enter a combination of 1-10 letters and numbers to serve as your pin.</cmd>
+        <cmd>Enter a combination of 4 numbers to serve as your PIN.</cmd>
+        <info>
+          <note type="warning">No special characters or letters should be used.</note>
+        </info>
       </step>
       <step>
         <cmd>Re-enter the exact same combination of letters and numbers</cmd>
-        <info>If the two pins do not match, you will not be able to submit the form.</info>
+        <info>
+          <note type = "warning"> if the two PINs do not match, you will not be able to submit the form. </note>
+        </info>
       </step>
     </steps>
   </taskbody>

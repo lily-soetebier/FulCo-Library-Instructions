@@ -3,10 +3,11 @@
 <task id="t_add_personal_info">
   <title>Personal Information</title>
   <shortdesc>
-The first portion of the application requires you to provide personal information for contact, and residency purposes.
+    The first portion of the application requires you to provide personal information for contact, and residency purposes.
   </shortdesc>
   <taskbody>
     <context>
+      <image href="../images/personal_info_fields.png" height="500px" alt="Image: The first 10 fields of the online registration form, highlighted in the image, are where you input your personal information."></image>
       <p>All information provided in this section must match the proof of residency.</p>
       <p><b>EXCEPTION:</b> For parents/guardians who are filling out this application on behalf of a minor, be sure to enter their name and date of birth, even if yours is listed on the proof of residency.</p>
     </context>
@@ -22,12 +23,16 @@ The first portion of the application requires you to provide personal informatio
       <step>
         <note type="warning">You must use the same address as the one listed on your proof of residency.</note>
         <cmd>Enter your Fulton County address into the Address (street), city, state, and postal code fields</cmd>
-        <info>If you live in Fulton County, enter your current home address. If you are a property owner, student, or employee that works or studies in Fulton County, enter the corresponding address.</info>
+        <info>
+          <note>If you live in Fulton County, enter your current home address. If you are a property owner, student, or employee that works or studies in Fulton  County, enter the corresponding address.</note>
+        </info>
       </step>
       <step>
         <note type="warning">Do not enter contact information that you may lose access to in the future such as a work or school phone number or email address.</note>
         <cmd>Enter your phone number and email address into the following fields.</cmd>
-        <info><b>Parents/guardians:</b> If the minor you are completing this form on behalf of has their own phone number and/or email, use their points of contact. If not, supply your own.</info>
+        <info>
+          <note type= "warning"><b>Parents/guardians:</b> If the minor you are completing this form on behalf of has their own phone number and/or email, use their points of contact. If not, supply your own.</note>
+        </info>
       </step>
     </steps>
   </taskbody>

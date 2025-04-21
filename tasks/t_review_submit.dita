@@ -3,15 +3,19 @@
 <task id="t_review_submit">
   <title>Review and Submit</title>
   <shortdesc>
-  It is extremly important that all of the information you have entered is accurate, and matches with your proof of residency.
+  It is extremely important that all of the information you have entered is accurate, and matches with your proof of residency.
   </shortdesc>
   <taskbody>
+    <prereq>
+      Be sure you have filled out each field before you submit your final application.
+      <image href="../images/completed_form.png" height = "500px" alt ="Image: A Fulton County Library card application where each filed contains information."/>
+    </prereq>
     <steps>
       <step>
         <cmd>Read each field careful to ensure accuracy, and that you have entered information into each field.</cmd>
       </step>
       <step>
-        <cmd>Select the button that corresponds with your desired action</cmd>
+        <cmd>Select the button that corresponds with your desired action.</cmd>
         <choicetable>
           <chhead>
             <choptionhd>Option</choptionhd>
@@ -23,7 +27,7 @@
           </chrow>
           <chrow>
             <choption>Cancel</choption>
-            <chdesc>If you no longer want to submit an application, you can click the cancel button. However, this action cannot be undone. If you cancel your application now you will have to start from the begining again.</chdesc>
+            <chdesc>If you no longer want to submit an application, you can click the cancel button. However, this action cannot be undone. If you cancel your application now you will have to start from the beginning again.</chdesc>
           </chrow>
         </choicetable>
       </step>

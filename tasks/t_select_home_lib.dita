@@ -9,11 +9,17 @@
     <steps>
       <step>
         <cmd>Click on the Library dropdown</cmd>
-        <stepresult>A long list of all Fulton County library branches in alphabetical order should appear</stepresult>
+        <stepresult>
+          A long list of all Fulton County library branches in alphabetical order should appear.
+          <image href="../images/lib_list.png" height="500px" alt="Image: A dropdown list containing the alphabetical names of the Fulton County Library branches."/>
+        </stepresult>
       </step>
       <step>
         <cmd>Click on the library you want to set as your home library</cmd>
-        <stepresult>The dropdown should close, and that name should have appeared in the box next to the label "Library"</stepresult>
+        <stepresult>
+          The dropdown should close, and that name should have appeared in the box next to the label "Library"
+          <image href="../images/selected_lib.png" height= "500px" alt="Image: The dropdown has now closed and in the box is Hapeville Branch."/>
+        </stepresult>
       </step>
     </steps>
   </taskbody>
