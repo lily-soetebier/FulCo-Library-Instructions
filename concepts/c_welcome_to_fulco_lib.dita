@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="c_enter_unique_id_here">
+<concept id="c_welcome_to_fulco_lib">
   <title>Welcome to the Fulton County Library</title>
   <shortdesc>
-  A library card offers more than just access to books Georgia Libr
+    Library cards are free and available to all Georgia Residents. Those living in Fulton County are eligible for a Fulton County Library card, specifically.
   </shortdesc>
   <conbody>
     <p>
       This guide will help you decide if a Fulton County Library card is best for you, and walk you through the process of acquiring and maintaining your library card.
     </p>
+    <image href="../images/fulco-library-logo.png" scalefit="yes" alt="Image: The Fulton County Library Logo."/>
   </conbody>
 </concept>

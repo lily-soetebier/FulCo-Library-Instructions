@@ -3,12 +3,13 @@
 <task id="t_add_personal_info">
   <title>Personal Information</title>
   <shortdesc>
-The first portion of the application requires you to provide personal information for contact, and residency purposes.
+    The first portion of the application requires you to provide personal information for contact, and residency purposes.
   </shortdesc>
   <taskbody>
     <context>
+      <image href="../images/personal_info_fields.png" width="6.5in" alt="Image: The first 10 fields of the online registration form, highlighted in the image, are where you input your personal information."></image>
       <p>All information provided in this section must match the proof of residency.</p>
-      <p><b>EXCEPTION:</b> For parents/guardians who are filling out this application on behalf of a minor, be sure to enter their name and date of birth, even if yours is listed on the proof of residency.</p>
+      <note>For parents/guardians who are filling out this application on behalf of a minor, be sure to enter their name and date of birth, even if yours is listed on the proof of residency.</note> 
     </context>
     <steps>
       <step>
@@ -17,17 +18,22 @@ The first portion of the application requires you to provide personal informatio
       </step>
       <step>
         <cmd>Add your date of birth using the numerical MM/DD/YYYY format.</cmd>
-        <stepxmp>If your birthday is January 1, 2001, enter 01/01/2001</stepxmp>
+        <stepxmp>If your birthday is January 1, 2001, enter 01/01/2001.</stepxmp>
       </step>
       <step>
         <note type="warning">You must use the same address as the one listed on your proof of residency.</note>
-        <cmd>Enter your Fulton County address into the Address (street), city, state, and postal code fields</cmd>
-        <info>If you live in Fulton County, enter your current home address. If you are a property owner, student, or employee that works or studies in Fulton County, enter the corresponding address.</info>
+        <cmd>Enter your Fulton County address into the address (street), city, state, and postal code fields.</cmd>
+        <info>
+          <note>If you live in Fulton County, enter your current home address. If you are a property owner, student, or employee that works or studies in Fulton  County, enter the corresponding address.</note>
+        </info>
       </step>
       <step>
-        <note type="warning">Do not enter contact information that you may lose access to in the future such as a work or school phone number or email address.</note>
-        <cmd>Enter your phone number and email address into the following fields.</cmd>
-        <info><b>Parents/guardians:</b> If the minor you are completing this form on behalf of has their own phone number and/or email, use their points of contact. If not, supply your own.</info>
+        
+        <cmd>Enter your phone number and email address into the corresponding fields.</cmd>
+        <info>
+          <note type="warning">Do not enter contact information that you may lose access to in the future such as a work or school phone number or email address.</note>
+          <note><b>Parents/guardians:</b> If the minor you are completing this form on behalf of has their own phone number and/or email, use their points of contact. If not, supply your own.</note>
+        </info>
       </step>
     </steps>
   </taskbody>
