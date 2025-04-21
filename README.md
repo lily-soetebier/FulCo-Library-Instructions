@@ -1,5 +1,5 @@
 # FulCo-Library-Instructions
-This repo contains a task oriented DITA topic model for a potential instructional page for signing up for a Fulton County Library card. All of the information contained within the repository has been source from the Fulton County Library website.
+This repo contains a task oriented DITA topic model for a potential instructional page for signing up for a Fulton County Library card. All of the information contained within the repository has been sourced from the Fulton County Library website.
 
 ## From PDF to DITA
 The original version of these instructions, found in [Soetebier_Instructions](Soetebier_Instructions.pdf), was created in Canva. By translating this instruction set from a static PDF into a topic model I was able to refine the content and make it easier to update and reuse.
