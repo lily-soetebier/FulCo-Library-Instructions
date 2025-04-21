@@ -15,6 +15,6 @@ There are four total maps for this topic model:
 The first three maps could be used as standalone instruction sets. The fourth map, as the name implies, stitches together the three other maps to create a comprehensive guide that mimics the structure of the original instruction set.
 
 ## Outputs
-In the [Outputs](output) folder there is a styled PDF of each map. The style sheet, [pdf_theme](pdf_theme.yaml) provides some basic formatting and color for visual interest.
+In the [output](output) folder there is a styled PDF of each map. The style sheet, [pdf_theme](pdf_theme.yaml) provides some basic formatting and color for visual interest.
 
 The font required to run the yaml styling as intended is Bahnschrift, which is available by default on Windows machines.
