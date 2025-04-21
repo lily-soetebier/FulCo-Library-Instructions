@@ -17,7 +17,7 @@
         </info>
       </step>
       <step>
-        <cmd>Re-enter the exact same combination of letters and numbers</cmd>
+        <cmd>Re-enter the exact same combination of letters and numbers.</cmd>
         <info>
           <note type = "warning"> if the two PINs do not match, you will not be able to submit the form. </note>
         </info>

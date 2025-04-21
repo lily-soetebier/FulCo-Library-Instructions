@@ -9,9 +9,9 @@
     <steps>
       <step>
         <cmd>Use the decision tree to select the appropriate item to bring in for proof of residency</cmd>
-      </step>
-      <step>
-        <cmd><image href="../images/proof_of_residency_chart.png" alt = "Chart:This decision tree walks through determining proof of residency" width="6.5in"/></cmd>
+        <info>
+          <image href="../images/proof_of_residency_chart.png" alt = "Chart:This decision tree walks through determining proof of residency" width="6.5in"/>
+        </info>
       </step>
       <step>
         <cmd>After completing the online application, present this item and your completed application to the clerk at the circulation desk of any Fulton County Library branch.</cmd>

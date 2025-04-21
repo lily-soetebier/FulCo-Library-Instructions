@@ -15,9 +15,9 @@
         </stepresult>
       </step>
       <step>
-        <cmd>Click on the library you want to set as your home library</cmd>
+        <cmd>Click on the library you want to set as your home library.</cmd>
         <stepresult>
-          The dropdown should close, and that name should have appeared in the box next to the label "Library"
+          The dropdown should close, and that name should have appeared in the box next to the label "Library".
           <image href="../images/selected_lib.png" width="6.5in" alt="Image: The dropdown has now closed and in the box is Hapeville Branch."/>
         </stepresult>
       </step>

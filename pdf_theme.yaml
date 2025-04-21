@@ -25,7 +25,7 @@ colors:
   copy:
     main: '#000000' #Black for text
   neutrals: # No need to change neutrals
-    s1: '#f2f2f2'
+    s1: '#ffffff'
     s2: '#e8e9e9'
     s3: '#d1d3d4'
     s4: '#babdbf'
@@ -39,10 +39,10 @@ colors:
 ########
 fonts:
   families:
-    copy: 'Open Sans, Bahnschrift, Arial'
-    heading1: 'Open Sans, Bahnschrift, Times New Roman'
-    otherheadings: 'Open Sans, Bahnschrift,  Times New Roman'
-    display: 'Open Sans, Bahnschrift, Impact'
+    copy: 'Bahnschrift, Open Sans, Arial'
+    heading1: 'Bahnschrift, Open Sans, Arial'
+    otherheadings: 'Bahnschrift, Open Sans,  Arial'
+    display: 'Bahnschrift, Open Sans, Impact'
     monospaced: 'Aptos Mono,Courier New, Courier, Bahnschrift'
   sizing:
     title: 32pt
@@ -50,6 +50,7 @@ fonts:
     h2: 15pt
     h3: 15pt
     h4: 12pt
+    h5: 12pt
     copy: 12pt
     uicontrol: 12pt
     small: 10pt
@@ -69,7 +70,7 @@ spacing:
     xxlarge: 60pt
     xlarge: 40.5pt
     large: 36pt
-    medium: 12pt
+    medium: 15pt
     small: 7pt
     xsmall: 4pt
 
@@ -82,6 +83,8 @@ page:
   mirror-margins: true
 
 
+
+
 ##################
 # MAIN DOC STYLES
 ##################
@@ -92,12 +95,14 @@ style:
     font-size: $fonts-sizing-copy
     font-weight: $fonts-weight-copy
     color: $colors-copy-main
+  
   # Cover Page Title
   cover-title:
     color: $colors-secondary-main
     font-family: $fonts-families-display
     font-weight: $fonts-weight-title
     font-size: $fonts-sizing-title
+    font-style: extrabold
     #text-transform: uppercase
   # Heading Styles
   h1:
@@ -106,14 +111,15 @@ style:
     font-weight: $fonts-weight-h1
     letter-spacing: 0.5pt
     color: $colors-primary-main
+    border-after: solid 3pt $colors-secondary-main
     # Add numbering in toc, headers, footers, when applicable
-    title-numbering: true
+    title-numbering: false
     break-before: page
   h2:
     font-family: $fonts-families-otherheadings
     font-size: $fonts-sizing-h2
     font-weight: $fonts-weight-h2
-    border-after: solid 1pt $colors-secondary-main
+    border-after: solid 1pt $colors-primary-main
     color: $colors-primary-main
     # Add numbering in toc, headers, footers, when applicable
     title-numbering: false
@@ -127,17 +133,28 @@ style:
     font-size: $fonts-sizing-h4
     font-weight: $fonts-weight-h4
     color: $colors-primary-main
+  section-title:
+    font-family: $fonts-families-copy
+    font-size: $fonts-sizing-h5
+    font-style: italic
+    color: $colors-copy-main
   
   li:
     margin-bottom: $spacing-lines-small
     font-family: $fonts-families-copy
     label:
       color: $colors-copy-main
+
+  choicetable:
+    keep-together.within-page: always
+  simpletable:
+    keep-together.within-page: always
   step:
     keep-together.within-page: always
   substeps:
     margin-top: $spacing-lines-small
     margin-bottom: $spacing-lines-large
+    keep-together.within-page: always
   link:
     font-family: $fonts-families-copy
     color: $colors-secondary-main
@@ -145,8 +162,8 @@ style:
     margin-top: $spacing-lines-medium
     margin-bottom: $spacing-lines-medium
   prereq:
-    margin-top: $spacing-lines-small
-    margin-bottom: $spacing-lines-small
+    margin-top: $spacing-lines-xsmall
+    margin-bottom: $spacing-lines-medium
   note:
     background-color: $colors-primary-s1
     padding-before: $spacing-lines-xsmall
@@ -198,7 +215,7 @@ header:
   end-indent: 10mm
   font-family: $fonts-families-otherheadings
   font-size: $fonts-sizing-small
-  font-weight: light
+  font-weight: bold
   padding-after: $spacing-lines-medium
   padding-before: $spacing-lines-medium
   start-indent: 10mm

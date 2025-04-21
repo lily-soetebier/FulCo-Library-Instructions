@@ -20,7 +20,7 @@
         <info><note>This can be done in person at your home library, or by visiting <xref href="https://fulcolibrary.bibliocommons.com/v2/fines" scope ="external">this page.</xref></note></info>
       </step>
       <step>
-        <cmd>Present your expired card and updated proof of residency to the library at the circulation desk</cmd>
+        <cmd>Present your expired card and updated proof of residency to the library at the circulation desk.</cmd>
         <stepresult>The librarian at the circulation desk will renew your card, and you will be able to continue utilizing library services immediately.</stepresult>
       </step>
     </steps>

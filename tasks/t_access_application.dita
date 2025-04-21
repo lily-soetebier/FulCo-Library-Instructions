@@ -10,18 +10,18 @@
       To access the library card application you must:
       <ul>
         <li>
-          Have a valid email address
+          Have a valid email address.
           <ul>
-            <li>Avoid using an email you may lose access to in the future such as a school or work email address</li>
+            <li>Avoid using an email you may lose access to in the future such as a school or work email. address</li>
           </ul>
         </li>
-        <li>Access to the internet</li>
+        <li>Access to the internet.</li>
       </ul>
       <note>If you do not have access to the internet at home, you can visit your local library branch to complete the application onsite.</note>
     </prereq>
     <steps>
       <step>
-        <cmd>Navigate to the Fulton County Library home page:  <xref href="https://www.fulcolibrary.org/" scope="external">www.fulcolibrary.org</xref> </cmd>
+        <cmd>Navigate to the Fulton County Library home page:  <xref href="https://www.fulcolibrary.org/" scope="external">www.fulcolibrary.org</xref>. </cmd>
       </step>
       <step>
         <cmd>Select Services from the top menu bar.</cmd>
@@ -40,7 +40,7 @@
         <stepresult>This link will bring you to the "Library Cards and Circulation Information" page.</stepresult>
       </step>
       <step>
-        <cmd>Click the image under the "Get a Library Card" callout on the right side of the page</cmd>
+        <cmd>Click the image under the "Get a Library Card" callout on the right side of the page.</cmd>
         <info>
           <note type="warning">
           You must click the image, not the heading, to activate the link.
