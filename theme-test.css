@@ -1,0 +1,91 @@
+/* DITA PDF Export CSS */
+/* Font: Open Sans Variable */
+/* Colors: Orange (#E56F2B), Blue (#114b7c), Black (#000000) */
+
+/* Embed Open Sans Variable using @font-face */
+@font-face {
+    font-family: 'Open Sans Variable';
+    src: url('C:/Windows/Fonts/Open%20Sans/OpenSans-VariableFont_wdth,wght.ttf');
+    format('truetype');
+    font-weight: 400 800; /* Range from Regular to ExtraBold */
+    font-stretch: 75% 100%; /* Optional if the variable font includes width axis */
+    font-style: normal;
+}
+
+body {
+    font-family: 'Open Sans Variable', sans-serif;
+    font-size: 15pt;
+    font-weight: 600;
+    color: #000000;
+    margin: 1in;
+    max-width: 6.5in;
+}
+
+/* Title (Topic Title) */
+.topictitle1, .title {
+    color: #E56F2B;
+    font-size: 32pt;
+    font-weight: 800;
+    margin-bottom: 0.5em;
+}
+
+/* Heading 1 */
+.topictitle2, h1 {
+    color: #114b7c;
+    font-size: 20pt;
+    font-weight: 800;
+    margin-top: 1em;
+    margin-bottom: 0.4em;
+}
+
+/* Heading 2 */
+h2 {
+    color: #114b7c;
+    font-size: 15pt;
+    font-weight: 700;
+    font-style: italic;
+    margin-top: 1em;
+    margin-bottom: 0.3em;
+}
+
+/* Heading 3 */
+h3 {
+    color: #E56F2B;
+    font-size: 15pt;
+    font-weight: 700;
+    margin-top: 1em;
+    margin-bottom: 0.3em;
+}
+
+/* Heading 4 */
+h4 {
+    color: #114b7c;
+    font-size: 15pt;
+    font-weight: 600;
+    margin-top: 1em;
+    margin-bottom: 0.2em;
+}
+
+/* Paragraph text */
+p {
+    font-size: 15pt;
+    font-weight: 600;
+    color: #000000;
+    line-height: 1.6;
+    margin-bottom: 1em;
+}
+
+/* Images scaled for 8.5x11 inch page */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1em 0;
+    page-break-inside: avoid;
+}
+
+/* Page size for print or PDF */
+@page {
+    size: 8.5in 11in;
+    margin: 1in;
+}
