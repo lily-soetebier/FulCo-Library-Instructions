@@ -20,8 +20,8 @@
       <step>
         <cmd>Click the blue button in the top right corner of the screen labeled Log In/My FCLS</cmd>
         <stepresult>
-          A dropdown will open.
-          <image href="../images/log_in_dropdown.png" height="500px" alt="Image: A screenshot of the account dropdown list displaying the log in button and options that will be available for the user to access once they log in."/>
+          <p>A dropdown will open.</p>
+          <image href="../images/log_in_dropdown.png" height="3in" alt="Image: A screenshot of the account dropdown list displaying the log in button and options that will be available for the user to access once they log in."/>
         </stepresult>
       </step>
       <step>
@@ -30,14 +30,14 @@
           <image></image>
         </info>
         <stepresult>
-          This will take you to the log in screen.
-          <image href="../images/log_in_page.png" height="500px" alt="Image: A screenshot of the log-in page."/>
+          <p>This will take you to the log in screen.</p>
+          <image href="../images/log_in_page.png" width="6.5in" alt="Image: A screenshot of the log-in page."/>
         </stepresult>
       </step>
       <step>
         <cmd>Enter the number found on the back of your library card into the Username or Barcode field</cmd>
         <info>
-          <image href="../images/sample_card.png" height="500px" alt="Image: This is a photo of the back of a sample library card."></image>
+          <image href="../images/sample_card.png" width="6.5in" alt="Image: This is a photo of the back of a sample library card."></image>
           <note>If you haven't picked up your permanent library card yet, you can use your temporary library card number. This can be found in the confirmation email you received after submitting your application.</note>
         </info>
       </step>
@@ -48,7 +48,7 @@
     </steps>
     <result>
       You will know you have successfully logged in when you are returned to the library home page and see your name/username in the top right corner of the screen.
-       <image href="../images/user_button.png" scalefit="yes" alt="Image: A screenshot of the blue button, now displaying 'lsoetebier3' a cardholder's username."/>
+       <image href="../images/user_button.png" alt="Image: A screenshot of the blue button, now displaying 'lsoetebier3' a cardholder's username."/>
     </result>
   </taskbody>
 </task>

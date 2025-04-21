@@ -14,18 +14,18 @@
         <note>Accessing the dashboard begins the same way logging in to you account began.</note>
         <cmd>Click on the blue button in the top left corner, which should display your name/username</cmd>
         <info>
-          <image href="../images/user_button.png" scalefit="yes" alt="Image: A screenshot of the blue button, now displaying 'lsoetebier3' a cardholder's username."></image>
+          <image href="../images/user_button.png" alt="Image: A screenshot of the blue button, now displaying 'lsoetebier3' a cardholder's username."/>
         </info>
         <stepresult>
-          A drop down will appear, just like it did when you were logging in.
-          <image href="../images/account_dropdown.png" height="500px" alt="Image:A screenshot of the account dropdown."/>
+         <p>A drop down will appear, just like it did when you were logging in.</p>
+          <image href="../images/account_dropdown.png" height="3in" alt="Image:A screenshot of the account dropdown."/>
         </stepresult>
       </step>
       <step>
         <cmd>Click the menu item "My Settings", found at the bottom of the drop down</cmd>
         <stepresult>
-          You will be brought to the following page:
-          <image href="../images/my_settings.png" height="500px" alt="Image: A screenshot of the settings page."/>
+          <p>You will be brought to the following page:</p>
+          <image href="../images/my_settings.png" width="6.5in" alt="Image: A screenshot of the settings page."/>
         </stepresult>
       </step>
       <step>

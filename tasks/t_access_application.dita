@@ -26,7 +26,7 @@
       <step>
         <cmd>Select Services from the top menu bar.</cmd>
         <info>
-          <image href="../images/Services_Tab.png" alt="Image: Top menu bar from the Fulton County Library home page with the services tab highlighted." height="500px"/>
+          <image href="../images/Services_Tab.png" alt="Image: Top menu bar from the Fulton County Library home page with the services tab highlighted." width="6.5in"/>
         </info>
         <stepresult>
         A drop down menu should appear when you click.
@@ -35,7 +35,7 @@
       <step>
         <cmd>Select Library Cards from the dropdown menu.</cmd>
         <info>
-          <image href="../images/Library_Cards.png" alt="Image: Services drop down listing a variety of sub-pages, with the library card subpage highlighted." height="500px"/>
+          <image href="../images/Library_Cards.png" alt="Image: Services drop down listing a variety of sub-pages, with the library card subpage highlighted." width="6.5in"/>
         </info>
         <stepresult>This link will bring you to the "Library Cards and Circulation Information" page.</stepresult>
       </step>
@@ -45,13 +45,13 @@
           <note type="warning">
           You must click the image, not the heading, to activate the link.
           </note>
-          <image href="../images/Get_a_Card.png" alt="Image: The top portion of the Library Cards and Circulation Information page with a sidebar titled Get a Library Card highlighted." height="500px"/>
+          <image href="../images/Get_a_Card.png" alt="Image: The top portion of the Library Cards and Circulation Information page with a sidebar titled Get a Library Card highlighted." width="6.5in"/>
         </info>
       </step>
     </steps>
     <result>
       You should now have reached the online application portal.
-      <image href="../images/Online_Application.png" alt="Image: The online application portal for the Fulton County library system." height="500px"/>
+      <image href="../images/Online_Application.png" alt="Image: The online application portal for the Fulton County library system." width="6.5in"/>
     </result>
   </taskbody>
 </task>
